@@ -1,0 +1,15 @@
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\bin\Debug\net6.0\ElevatorChallenge.exe
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\bin\Debug\net6.0\ElevatorChallenge.deps.json
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\bin\Debug\net6.0\ElevatorChallenge.runtimeconfig.json
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\bin\Debug\net6.0\ElevatorChallenge.dll
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\bin\Debug\net6.0\ElevatorChallenge.pdb
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.csproj.AssemblyReference.cache
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.AssemblyInfoInputs.cache
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.AssemblyInfo.cs
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.csproj.CoreCompileInputs.cache
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.dll
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\refint\ElevatorChallenge.dll
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.pdb
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ElevatorChallenge.genruntimeconfig.cache
+D:\PRACTISE\ElevatorChallenge\ElevatorChallenge\obj\Debug\net6.0\ref\ElevatorChallenge.dll
